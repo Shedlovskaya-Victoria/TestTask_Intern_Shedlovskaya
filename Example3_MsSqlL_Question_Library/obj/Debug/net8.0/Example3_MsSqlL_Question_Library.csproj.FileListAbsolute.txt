@@ -1,0 +1,14 @@
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\bin\Debug\net8.0\Example3_MsSqlL_Question_Library.deps.json
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\bin\Debug\net8.0\Example3_MsSqlL_Question_Library.runtimeconfig.json
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\bin\Debug\net8.0\Example3_MsSqlL_Question_Library.dll
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\bin\Debug\net8.0\Example3_MsSqlL_Question_Library.pdb
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.csproj.AssemblyReference.cache
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.AssemblyInfoInputs.cache
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.AssemblyInfo.cs
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.csproj.CoreCompileInputs.cache
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.dll
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\refint\Example3_MsSqlL_Question_Library.dll
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.pdb
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\Example3_MsSqlL_Question_Library.genruntimeconfig.cache
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example3_MsSqlL_Question_Library\obj\Debug\net8.0\ref\Example3_MsSqlL_Question_Library.dll

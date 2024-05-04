@@ -1,0 +1,11 @@
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\bin\Debug\net8.0\Example2_Area_Calculation_Library.deps.json
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\bin\Debug\net8.0\Example2_Area_Calculation_Library.dll
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\bin\Debug\net8.0\Example2_Area_Calculation_Library.pdb
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\Example2_Area_Calculation_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\Example2_Area_Calculation_Library.AssemblyInfoInputs.cache
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\Example2_Area_Calculation_Library.AssemblyInfo.cs
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\Example2_Area_Calculation_Library.csproj.CoreCompileInputs.cache
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\Example2_Area_Calculation_Library.dll
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\refint\Example2_Area_Calculation_Library.dll
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\Example2_Area_Calculation_Library.pdb
+D:\wpf work now\TestTask_Intern_Shedlovskaya\Example2_Area_Calculation_Library\obj\Debug\net8.0\ref\Example2_Area_Calculation_Library.dll

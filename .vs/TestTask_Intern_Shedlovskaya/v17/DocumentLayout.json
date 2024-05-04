@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wpf work now\\TestTask_Intern_Shedlovskaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75ED5769-5ADE-485F-9258-8A2DDB47F02F}|Example2_Area_Calculation_Library\\Example2_Area_Calculation_Library.csproj|d:\\wpf work now\\testtask_intern_shedlovskaya\\example2_area_calculation_library\\work\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75ED5769-5ADE-485F-9258-8A2DDB47F02F}|Example2_Area_Calculation_Library\\Example2_Area_Calculation_Library.csproj|solutionrelative:example2_area_calculation_library\\work\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAE53E0-7A91-40D1-9A0E-1A4E4505160A}|Example2_Tests\\Example2_Tests.csproj|d:\\wpf work now\\testtask_intern_shedlovskaya\\example2_tests\\calculationunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAE53E0-7A91-40D1-9A0E-1A4E4505160A}|Example2_Tests\\Example2_Tests.csproj|solutionrelative:example2_tests\\calculationunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationUnitTest.cs",
+              "DocumentMoniker": "D:\\wpf work now\\TestTask_Intern_Shedlovskaya\\Example2_Tests\\CalculationUnitTest.cs",
+              "RelativeDocumentMoniker": "Example2_Tests\\CalculationUnitTest.cs",
+              "ToolTip": "D:\\wpf work now\\TestTask_Intern_Shedlovskaya\\Example2_Tests\\CalculationUnitTest.cs",
+              "RelativeToolTip": "Example2_Tests\\CalculationUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:10:48.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\wpf work now\\TestTask_Intern_Shedlovskaya\\Example2_Area_Calculation_Library\\Work\\Calculation.cs",
+              "RelativeDocumentMoniker": "Example2_Area_Calculation_Library\\Work\\Calculation.cs",
+              "ToolTip": "D:\\wpf work now\\TestTask_Intern_Shedlovskaya\\Example2_Area_Calculation_Library\\Work\\Calculation.cs",
+              "RelativeToolTip": "Example2_Area_Calculation_Library\\Work\\Calculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:24:57.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="EnityFramework_Database_Questions\**" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="Standart_MsSql_Request\**" />
+    <EmbeddedResource Remove="EnityFramework_Database_Questions\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="Standart_MsSql_Request\**" />
+    <None Remove="EnityFramework_Database_Questions\**" />
+    <None Remove="Models\**" />
+    <None Remove="Standart_MsSql_Request\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
